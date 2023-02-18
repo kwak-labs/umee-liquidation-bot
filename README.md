@@ -8,7 +8,7 @@ thus the bot ends up paying their debts for them while also claiming there colla
 
 # Setup
 
-for a more in depth explaination(s) please read [here](https://github.com/kwak-labs/umee-liquidation-bot/tree/main/docs)
+for a more in depth explaination(s) please read [here](https://github.com/kwak-labs/umee-liquidation-bot/tree/master/docs)
 
 1. `git clone https://github.com/kwak-labs/umee-liquidation-bot.git`
 2. `cd umee-liqudation-bot`
