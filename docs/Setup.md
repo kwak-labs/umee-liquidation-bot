@@ -6,8 +6,8 @@ Please make sure you have [Nodejs](https://nodejs.org) installed on your machine
 And some sort of document modifying software.
 
 1. To start please open your terminal
-2. Install the project by running `git clone https://github.com/kwak-labs/liqudation-bot.git`
-3. Now change into its directory `cd liquidation-bot`
+2. Install the project by running `git clone https://github.com/kwak-labs/umee-liquidation-bot.git`
+3. Now change into its directory `cd umee-liquidation-bot`
 4. Install the required dependicies `npm i`
 5. Now you will likely want to change `src/config/config.json` <br>
    Please read below for guides on how to modify config.json

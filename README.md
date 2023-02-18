@@ -8,10 +8,10 @@ thus the bot ends up paying their debts for them while also claiming there colla
 
 # Setup
 
-for a more in depth explaination(s) please read [here](https://github.com/kwak-labs/liqudation-bot/tree/main/docs)
+for a more in depth explaination(s) please read [here](https://github.com/kwak-labs/umee-liquidation-bot/tree/main/docs)
 
-1. `git clone https://github.com/kwak-labs/liqudation-bot.git`
-2. `cd liqudation-bot`
+1. `git clone https://github.com/kwak-labs/umee-liquidation-bot.git`
+2. `cd umee-liqudation-bot`
 3. open config/config.json and edit data to your liking, however presets are also a good option.
 4. `npm i` to install all the needed packages
 5. `node src/index.js` to start the bot
