@@ -16,6 +16,7 @@ for a more in depth explaination(s) please read [here](https://github.com/kwak-l
 4. `npm i` to install all the needed packages
 5. `node src/index.js` to start the bot
 
-# Soon Supported Features
+# To-Do
 
 - The bot currently assumes you have enough assets to pay off someones debts, and will not borrow to pay it.
+- Make the bot load prices into memory every so often, rather than querying the price every new liquidation
