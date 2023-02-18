@@ -1,0 +1,54 @@
+{
+  "eth": {
+    "exponent": 1000000000000000000,
+    "liquidation_incentive": 0.05
+  },
+  "wbtc": {
+    "exponent": 100000000,
+    "liquidation_incentive": 0.05
+  },
+  "usdc": {
+    "exponent": 1000000,
+    "liquidation_incentive": 0.05
+  },
+
+  "stOsmo": {
+    "exponent": 1000000,
+    "liquidation_incentive": 0.06
+  },
+
+  "bnb": {
+    "exponent": 1000000000000000000,
+    "liquidation_incentive": 0.05
+  },
+
+  "ist": {
+    "exponent": 1000000,
+    "liquidation_incentive": 0.05
+  },
+
+  "atom": {
+    "exponent": 1000000,
+    "liquidation_incentive": 0.04
+  },
+
+  "dai": {
+    "exponent": 1000000000000000000,
+    "liquidation_incentive": 0.05
+  },
+
+  "stAtom": {
+    "exponent": 1000000,
+    "liquidation_incentive": 0.06
+  },
+
+  "osmo": {
+    "exponent": 1000000,
+    "liquidation_incentive": 0.04
+  },
+
+  "umee": {
+    "exponent": 1000000,
+    "liquidation_incentive": 0.06
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "seed_phrase": "seed",
+  "rpc_endpoint": "https://rpc.mainnet.network.umee.cc:443",
+  "rest_endpoint": "",
+  "minium_usd_value": 0.00000001,
+  "interval": 4000,
+  "memo": "https://github.com/kwak-labs/umee-liquidation-bot",
+  "gas": {
+    "fee": "0",
+    "gas": "200000",
+    "denom": "uumee"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "umee-liquidation-bot",
+  "version": "0.0.1",
+  "description": "Liquidate some people",
+  "main": "src/index.js",
+  "type": "module",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "@cosmjs/proto-signing": "^0.29.5",
+    "@cosmjs/stargate": "^0.29.5",
+    "@osmonauts/lcd": "^0.10.0",
+    "coingecko-api": "^1.0.10",
+    "umeejs": "^0.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwak-labs/umee-liquidation-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kwak-labs/umee-liquidation-bot/issues"
+  },
+  "homepage": "https://github.com/kwak-labs/umee-liquidation-bot#readme"
+}

@@ -1,0 +1,13 @@
+{
+  "atom": "cosmos",
+  "usdc": "axlusdc",
+  "wbtc": "wrapped-bitcoin",
+  "eth": "ethereum",
+  "stOsmo": "stride-staked-osmo",
+  "bnb": "binancecoin",
+  "dai": "dai",
+  "stAtom": "stride-staked-atom",
+  "osmo": "osmosis",
+  "ist": "inter-stable-token",
+  "umee": "umee"
+}
