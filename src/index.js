@@ -124,7 +124,7 @@ async function main(QueryClient, SigningClient, gasUsd, firstAccount) {
       }
     }
 
-    // S
+    // So it doesnt send a "tx already in cache" error
     global.badAddresss.push(target.address);
     let result = await SigningClient.signAndBroadcast(
       firstAccount.address,

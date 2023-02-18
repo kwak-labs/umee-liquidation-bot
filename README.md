@@ -19,4 +19,4 @@ for a more in depth explaination(s) please read [here](https://github.com/kwak-l
 # To-Do
 
 - The bot currently assumes you have enough assets to pay off someones debts, and will not borrow to pay it.
-- Make the bot load prices into memory every so often, rather than querying the price every new liquidation
+- Make the bot load prices into memory every so often, rather than querying the price every new liquidation. Can help with speed when liquidating someone and, rate limits.
